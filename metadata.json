@@ -1,0 +1,6 @@
+{
+  "name": "AI YouTube Content Factory",
+  "description": "A multi-agent AI pipeline that researches companies and generates full production-ready packages for YouTube videos, Shorts, thumbnails, and social media promotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
